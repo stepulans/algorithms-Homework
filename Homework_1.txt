@@ -1,0 +1,20 @@
+Task 1
+1C, 2B, 3A
+
+Task 2
+B
+
+Task 3
+C
+
+Task 4
+B, D
+
+Task 5
+E
+
+Task 6
+1B, 2A, 3C, 4D, 5E
+
+Task 7
+1B, 2A, 3D, 4C
